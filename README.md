@@ -1,6 +1,6 @@
 # tamu_daily_lake_evap
 The code for daily lake evaporation estimations.
- * 
+ 
 This code is based on the algorithm described in the paper: 
  * Zhao, G., & Gao, H. (2019). Estimating reservoir evaporation losses for the United States: Fusing remote sensing and 
  * modeling approaches. Remote sensing of Environment, 226, 109-124. 
