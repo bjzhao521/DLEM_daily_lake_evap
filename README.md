@@ -5,7 +5,7 @@ This code is based on the algorithm described in the paper:
  * Zhao, G., & Gao, H. (2019). Estimating reservoir evaporation losses for the United States: Fusing remote sensing and 
    modeling approaches. Remote sensing of Environment, 226, 109-124. 
  * Zhao, B., Huntington, J. Pearson, C., Zhao, G., Ott, T., ..., Gao, H. Developing a General Daily 	Lake Evaporation Model 
-   and Demonstrating its Application in the State of Texas. Water 	Resource Research. (2023b), In review.
+   and Demonstrating its Application in the State of Texas. Water 	Resource Research. (2023), In review.
 
 Usage Restriction:
  
