@@ -1,15 +1,12 @@
 # tamu_daily_lake_evap
-The code for daily lake evaporation estimations.
- 
-This code is based on the algorithm described in the paper: 
+The code provided here is for daily lake evaporation estimations, and is based on the algorithm described in the following paper: 
  * Zhao, G., & Gao, H. (2019). Estimating reservoir evaporation losses for the United States: Fusing remote sensing and 
    modeling approaches. Remote sensing of Environment, 226, 109-124. 
  * Zhao, B., Huntington, J. Pearson, C., Zhao, G., Ott, T., ..., Gao, H. Developing a General Daily 	Lake Evaporation Model 
    and Demonstrating its Application in the State of Texas. Water 	Resource Research. (2023), In review.
 
 Usage Restriction:
- 
-* The code provided here is intended for academic and research purposes only. You should cite the aforementioned papers when using this code. It is not to be redistributed or used for commercial purposes without explicit permission from the original authors. 
+* The code provided here is intended for academic and research purposes only.  When using this code, please cite the aforementioned papers. It should not be redistributed or used for commercial purposes without explicit permission from the original authors. 
 
 Tips:
 * Please execute the main function in 'DLEM_run.py' to operate the daily lake evaporation model. 
