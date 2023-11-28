@@ -9,7 +9,7 @@ This code is based on the algorithm described in the paper:
 
 Usage Restriction:
  
-*The code provided here is intended for academic and research purposes only. You should cite the aforementioned papers when using this code. It is not to be redistributed or used for commercial purposes without explicit permission from the original authors. 
+* The code provided here is intended for academic and research purposes only. You should cite the aforementioned papers when using this code. It is not to be redistributed or used for commercial purposes without explicit permission from the original authors. 
 
 Tips:
 * Please execute the main function in 'DLEM_run.py' to operate the daily lake evaporation model. 
